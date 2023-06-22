@@ -44,7 +44,9 @@ Launch the server by running the command `yarn run start`.
 
 # Usage Instructions
 
-1. Access the application in Localhost: `http://localhost:3000`
+1. Access the application through one of the following URLs:
+   - Localhost: `http://localhost:3000`
+   - Online: `https://github-integration.onrender.com/`
   
 
 2. Click on the "Create a Github repository" button and authorize the app.
